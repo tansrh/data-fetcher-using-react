@@ -1,4 +1,10 @@
 link:   https://tanuj-code.github.io/data-fetcher-using-react/
+
+![bd1](https://github.com/Tanuj-code/data-fetcher-using-react/assets/107149612/4165127e-ccdc-4f8a-a85d-2b09a2a4f392)
+
+
+![bg2](https://github.com/Tanuj-code/data-fetcher-using-react/assets/107149612/f27f2cb6-c641-40f6-9cc0-d7dccb30311a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
