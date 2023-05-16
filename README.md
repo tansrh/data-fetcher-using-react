@@ -1,4 +1,4 @@
-link:   https://tanuj-code.github.io/data-fetcher-using-react/
+link:   (https://tansrh.github.io/data-fetcher-using-react/)
 
 ![bd1](https://github.com/Tanuj-code/data-fetcher-using-react/assets/107149612/4165127e-ccdc-4f8a-a85d-2b09a2a4f392)
 
